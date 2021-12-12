@@ -1,3 +1,4 @@
-# AML BASIC
-AML basic project for the exam.
+# Applied Machine Learning (AML) - Basic
+
+This is the project for the AML basic module - International Masters course at the University of Bologna. The project is about the image classification of handwritten chinese numerical characters collected by Newcastle University. 
 
