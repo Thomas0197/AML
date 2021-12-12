@@ -1,2 +1,3 @@
-# AML
-AML project for the exam
+# AML BASIC
+AML basic project for the exam.
+
